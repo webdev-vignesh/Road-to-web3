@@ -1,4 +1,4 @@
-# Welcome to Week 1 of the Cohort!
+# Welcome to Week 2 of the Cohort!
 
 ![Excited](https://media0.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
 
@@ -8,7 +8,7 @@ Tell you what, if you ever come across a topic or code or a part of the course t
 
 ![Determined](https://media1.giphy.com/media/P1EVrN8TOIQvvDUFUg/giphy.gif)
 
-Now then, enough with the chit-chat, we believe, for the first week of Road to web3, it is important that you keep your learning momentum going 
+Now then, enough with the chit-chat, we believe, for the second week of Road to web3, it is important that you keep your learning momentum going 
 
 To do that, why not dedicate some time from your schedule for a bit of self-learning? 
 
